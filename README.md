@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**Koushik-http/Koushik-http** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I'm a Full Stack Developer passionate about DevOps, AI/ML, and Blockchain technology.  
 
-Here are some ideas to get you started:
+🔧 **Technologies I use:**
+- HTML, CSS, JavaScript
+- React, Node.js, Express
+- Python, Machine Learning, Blockchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [Personal Website](https://yourwebsite.com)
+
+💼 **Some of my projects:**
+- [Crypto Fraud Detector](https://github.com/your-username/crypto-fraud-detector)
+- [Portfolio Website](https://github.com/your-username/portfolio)
+
+😄 **Fun fact**: I love coding, exploring new tech, and solving challenging problems!
