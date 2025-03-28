@@ -15,25 +15,34 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
 ## 🚀 My Skills & Technologies
 
 ### Frontend:
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
-- ![React](https://img.shields.io/badge/React-%2300D9E2.svg?&style=flat-square&logo=react&logoColor=white)
-- ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/React-%2300D9E2.svg?&style=flat-square&logo=react&logoColor=white" alt="React" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
+</div>
 
 ### Backend:
-- ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white)
-- ![Express](https://img.shields.io/badge/Express-%23404d59.svg?&style=flat-square&logo=express&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-%233D5A65.svg?&style=flat-square&logo=python&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Express-%23404d59.svg?&style=flat-square&logo=express&logoColor=white" alt="Express" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Python-%233D5A65.svg?&style=flat-square&logo=python&logoColor=white" alt="Python">
+</div>
 
 ### Tools:
-- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat-square&logo=github&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-%233496D6.svg?&style=flat-square&logo=docker&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white" alt="Git" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Docker-%233496D6.svg?&style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</div>
 
 ### Databases:
-- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+</div>
+
 
 ## 📂 My Projects
 
