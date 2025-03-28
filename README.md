@@ -1,6 +1,12 @@
 <!-- GitHub Profile Header -->
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+<div align="center" style="position: relative; width: 100%;">
+  <!-- Image -->
+  <img src="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Banner Image" width="100%" style="border-radius: 10px;" />
+  
+  <!-- Black Transparent Overlay -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); display: flex; justify-content: center; align-items: center; color: white; font-size: 2.5rem; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">
+    Hello, this is **Koushik**
+  </div>
 </div>
 
 # Hello, I'm **R Koushik Varma** 👋
