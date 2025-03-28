@@ -1,87 +1,150 @@
-# Hello, I'm **Koushik** 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Koushik - Full Stack Developer | AI/ML | Blockchain Security</title>
+  <style>
+    /* Basic reset */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
-### **Full Stack Developer | AI/ML Enthusiast | Blockchain Security**
+    body {
+      font-family: 'Arial', sans-serif;
+      background: #121212;
+      color: #ffffff;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
 
-Welcome to my GitHub profile! I'm a passionate and dedicated **Full Stack Developer** with a focus on **AI/ML**, **Blockchain Security**, and **DevOps** practices. I am always looking to solve challenging problems and build efficient, scalable, and secure solutions using modern technologies.
+    /* Container */
+    .container {
+      text-align: center;
+      max-width: 800px;
+      padding: 20px;
+      background: linear-gradient(135deg, #1E2A47, #2C3D66);
+      border-radius: 15px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+      animation: fadeIn 2s ease-out;
+    }
 
----
+    /* Heading Styling */
+    h1 {
+      font-size: 3rem;
+      color: #4e9af1;
+      margin-bottom: 20px;
+      animation: slideIn 1s ease-out;
+    }
 
-## 📚 **About Me**
+    h2 {
+      font-size: 1.5rem;
+      color: #a3c4f3;
+      margin-bottom: 20px;
+    }
 
-I'm a passionate and dedicated Full Stack Developer with a focus on **AI/ML**, **Blockchain Security**, and **DevOps** practices. I am always looking to solve challenging problems and build efficient, scalable, and secure solutions using modern technologies.
+    p {
+      font-size: 1rem;
+      color: #d1d1d1;
+      margin: 10px 0;
+    }
 
----
+    .cta-buttons a {
+      padding: 10px 20px;
+      margin: 5px;
+      color: #fff;
+      background-color: #3498db;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+      transition: background-color 0.3s ease-in-out;
+    }
 
-## 🛠️ **Technologies I Work With**
+    .cta-buttons a:hover {
+      background-color: #2c87c8;
+    }
 
-- **React**
-- **Node.js**
-- **Next.js**
-- **Express**
-- **TailwindCSS**
-- **Python**
-- **Docker**
-- **Kubernetes**
+    /* Tech Stack Grid */
+    .tech-stack {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      margin-top: 30px;
+    }
 
----
+    .tech-stack div {
+      background: #2c3e50;
+      padding: 20px;
+      border-radius: 8px;
+      transition: transform 0.3s ease-in-out;
+    }
 
-## 🚀 **Projects**
+    .tech-stack div:hover {
+      transform: scale(1.1);
+    }
 
-Here are some of my notable projects:
+    /* Animation keyframes */
+    @keyframes fadeIn {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
 
-### [Crypto Fraud Detection](https://github.com/your-username/crypto-fraud-detection)  
-A project that detects fraudulent crypto transactions across the Dark Web using machine learning algorithms.
+    @keyframes slideIn {
+      0% {
+        transform: translateY(-30px);
+      }
+      100% {
+        transform: translateY(0);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Hello, I'm <span style="color:#3498db">Koushik</span></h1>
+    <h2>Full Stack Developer | AI/ML Enthusiast | Blockchain Security</h2>
+    <p>Welcome to my GitHub Profile! I am passionate about creating efficient, scalable, and secure solutions using modern technologies.</p>
+    
+    <div class="cta-buttons">
+      <a href="https://github.com/your-username" target="_blank">GitHub</a>
+      <a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a>
+      <a href="mailto:your-email@example.com">Email</a>
+    </div>
 
-### [Personal Portfolio Website](https://github.com/your-username/portfolio)  
-A showcase of my skills, experience, and projects. Built using **Next.js**, **TailwindCSS**, and deployed on **Vercel**.
+    <section class="tech-stack">
+      <div>React</div>
+      <div>Node.js</div>
+      <div>Next.js</div>
+      <div>Express</div>
+      <div>TailwindCSS</div>
+      <div>Python</div>
+      <div>Docker</div>
+      <div>Kubernetes</div>
+    </section>
+  </div>
 
----
-
-## 🌍 **Connect with Me**
-
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Email](mailto:your-email@example.com)
-
----
-
-## 💼 **Skills & Expertise**
-
-- **Full Stack Development**: Building end-to-end solutions with modern technologies.
-- **AI/ML**: Building machine learning models and working with AI algorithms.
-- **Blockchain Security**: Implementing secure blockchain applications and smart contracts.
-- **DevOps**: Working with Docker, Kubernetes, and CI/CD pipelines.
-
----
-
-## 📊 **GitHub Stats**
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
-
----
-
-## 🎯 **Currently Learning**
-
-- **Blockchain Security**: Exploring the security aspects of blockchain and smart contracts.
-- **Deep Learning**: Working with neural networks and advanced AI models.
-- **Cloud Infrastructure & DevOps**: Improving my skills in **Docker**, **Kubernetes**, and **CI/CD pipelines**.
-
----
-
-## 🤖 **Fun Facts**
-
-- I love learning new programming languages and frameworks.
-- I'm passionate about cryptography and securing digital platforms.
-- In my free time, I enjoy contributing to open-source projects and working on personal tech challenges.
-
----
-
-### 📍 **Location:**  
-Currently based in **India**, open to opportunities around the globe 🌍.
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/your-username/count.svg" />
-</p>
+  <script>
+    // Example of adding animation for the CTA Buttons
+    const ctaButtons = document.querySelectorAll('.cta-buttons a');
+    ctaButtons.forEach(button => {
+      button.addEventListener('mouseover', () => {
+        button.style.transform = 'scale(1.1)';
+      });
+      button.addEventListener('mouseout', () => {
+        button.style.transform = 'scale(1)';
+      });
+    });
+  </script>
+</body>
+</html>
