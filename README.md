@@ -20,28 +20,32 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/React-%2300D9E2.svg?&style=flat-square&logo=react&logoColor=white" alt="React" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white" alt="Next.js" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?&style=flat-square&logo=react-native&logoColor=white" alt="React Native" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Bootstrap-%237E32A8.svg?&style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2318A0FB.svg?&style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/TailScript-%23EAEAEA.svg?&style=flat-square&logo=tailwindcss&logoColor=black" alt="TailScript" style="margin-right: 10px;">
 </div>
 
 ### Backend:
 <div>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/Express-%23404d59.svg?&style=flat-square&logo=express&logoColor=white" alt="Express" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Python-%233D5A65.svg?&style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Python-%233D5A65.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/FastAPI-%2300C1D4.svg?&style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=flat-square&logo=postman&logoColor=white" alt="Postman">
 </div>
 
 ### Tools:
 <div>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white" alt="Git" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Docker-%233496D6.svg?&style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Docker-%233496D6.svg?&style=flat-square&logo=docker&logoColor=white" alt="Docker" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Canvas-%23FF8C00.svg?&style=flat-square&logo=canvas&logoColor=white" alt="Canvas">
 </div>
 
-### Databases:
-<div>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-</div>
+
 
 
 ## 📂 My Projects
