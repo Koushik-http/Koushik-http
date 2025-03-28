@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
 ## 👨‍💻 About Me
 
 - 🌍 I’m based in Chennai.
-- 🧑‍🎓 I’m currently Pursuing Bachlors of Engineering.
+- 🧑‍🎓 I’m currently Pursuing Bachelors of Engineering.
 - 🌱 I’m actively learning JAVA, PYTHON, Web development.
-- 💬 Ask me about Web development in both front-end and back-end development 
-- 📫 How to reach me: <link src = https://koushik1101portfolio.vercel.app/><link/>
+- 💬 Ask me about Web development in both front-end and back-end development.
+- 📫 How to reach me: [My Portfolio](https://koushik1101portfolio.vercel.app/)
 
 ## 🚀 My Skills & Technologies
 
@@ -43,39 +43,35 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
   <img src="https://img.shields.io/badge/Canvas-%23FF8C00.svg?&style=flat-square&logo=canvas&logoColor=white" alt="Canvas">
 </div>
 
-
-
-
 ## 📂 My Projects
 
 Here are some of the projects I've worked on:
 
-- [**Project 1**](https://github.com/yourusername/project1) - Brief description of what the project does and what technologies you used.
-- [**Project 2**](https://github.com/yourusername/project2) - Description of the second project and any key features.
-- [**Project 3**](https://github.com/yourusername/project3) - Overview of another project, highlighting skills or technologies learned.
+- [**Project 1**](https://github.com/koushik1101/project1) - A brief description of what the project does and what technologies you used.
+- [**Project 2**](https://github.com/koushik1101/project2) - Description of the second project and any key features.
+- [**Project 3**](https://github.com/koushik1101/project3) - Overview of another project, highlighting skills or technologies learned.
 
 Check out my full portfolio on GitHub for more projects!
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Koushik Varma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koushik1101&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik1101&layout=compact&theme=radical)
 
 ## 📝 Blog & Articles
 
-- [**How I Learned React**](https://medium.com/@yourusername/how-i-learned-react)
-- [**Building a REST API with Node.js and Express**](https://medium.com/@yourusername/building-a-rest-api-with-nodejs-and-express)
+- [**How I Learned React**](https://medium.com/@koushik1101/how-i-learned-react)
+- [**Building a REST API with Node.js and Express**](https://medium.com/@koushik1101/building-a-rest-api-with-nodejs-and-express)
 
 ## 📫 Reach Out to Me
 
-- ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin)
-- 🌐 Website: [your-website.com](https://your-website.com)
+- ✉️ Email: [koushik1101@example.com](mailto:koushik1101@example.com)
+- 💼 LinkedIn: [Koushik Varma](https://linkedin.com/in/koushik-varma)
+- 🌐 Website: [My Portfolio](https://koushik1101portfolio.vercel.app/)
 
 Thanks for stopping by! 😊
 
 ---
 
-<sub>Feel free to connect with me on [LinkedIn](https://linkedin.com/in/your-linkedin) or follow me for updates. 😊</sub>
-
+<sub>Feel free to connect with me on [LinkedIn](https://linkedin.com/in/koushik-varma) or follow me for updates. 😊</sub>
