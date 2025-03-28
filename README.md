@@ -1,16 +1,14 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Koushik Varma 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, open-source contributions, and building projects that solve real-world problems. Here, you can find my repositories, skills, and more about me. Feel free to explore, star, or contribute to any of my projects!
 
 ## 👨‍💻 About Me
 
-- 🌍 I’m based in [Your Location]
-- 🧑‍🎓 I’m currently learning [Technology or Topic you're learning]
-- 💼 I'm working as a [Your Job Title or Profession]
-- 🔭 I’m currently working on [Current Project/Interest]
-- 🌱 I’m actively learning [Skills/Technologies you're focused on right now]
-- 💬 Ask me about [Technologies you're knowledgeable about]
-- 📫 How to reach me: [Your email or contact info]
+- 🌍 I’m based in Chennai.
+- 🧑‍🎓 I’m currently Pursuing Bachlors of Engineering.
+- 🌱 I’m actively learning JAVA, PYTHON, Web development.
+- 💬 Ask me about Web development in both front-end and back-end development 
+- 📫 How to reach me: <link src = https://koushik1101portfolio.vercel.app/><link/>
 
 ## 🚀 My Skills & Technologies
 
