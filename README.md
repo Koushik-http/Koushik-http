@@ -1,6 +1,6 @@
 <!-- GitHub Profile Header -->
 <div align="center">
-  <img src="https://i.imgur.com/Jm3OyzM.png" alt="Banner Image" width="100%" />
+  <img src="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
 </div>
 
 # Hello, I'm **R Koushik Varma** 👋
