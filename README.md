@@ -1,4 +1,4 @@
-# ![Wave Header]([https://your-image-url.com/wave-header.png](https://img.freepik.com/free-photo/3d-abstract-cyber-background-with-flowing-particles-design_1048-18245.jpg))
+# ![FULL STACK WEB DEVELOPER](https://img.freepik.com/free-photo/3d-abstract-cyber-background-with-flowing-particles-design_1048-18245.jpg)
 
 Hi there, I'm Koushik Varma 👋
 
