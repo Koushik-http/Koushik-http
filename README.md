@@ -1,4 +1,3 @@
-# ![FULL STACK WEB DEVELOPER](./waves.png)
 
 Hi there, I'm Koushik Varma 👋
 
