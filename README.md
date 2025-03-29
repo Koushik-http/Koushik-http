@@ -66,12 +66,12 @@ Check out my full portfolio on GitHub for more projects!
 
 ## 📫 Reach Out to Me
 
-- ✉️ Email: [koushik1101@example.com](mailto:koushik1101@example.com)
-- 💼 LinkedIn: [Koushik Varma](https://linkedin.com/in/koushik-varma)
-- 🌐 Website: [My Portfolio](https://koushik1101portfolio.vercel.app/)
+- ✉️ Email: [koushik1101@example.com](mailto:koushikvarma6369@gmail.com)
+- 💼 LinkedIn: [Koushik Varma](https://linkedin.com/in/koushik-varma](https://www.linkedin.com/in/koushik-varma1011/))
+- 🌐 Website: [My Portfolio](https://koushik1101portfolio.vercel.app/](https://koushik1101portfolio.vercel.app/))
 
 Thanks for stopping by! 😊
 
 ---
 
-<sub>Feel free to connect with me on [LinkedIn](https://linkedin.com/in/koushik-varma) or follow me for updates. 😊</sub>
+<sub>Feel free to connect with me on [LinkedIn]([https://linkedin.com/in/koushik-varma](https://www.linkedin.com/in/koushik-varma1011/)) or follow me for updates. 😊</sub>
