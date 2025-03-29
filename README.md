@@ -1,4 +1,4 @@
-# ![FULL STACK WEB DEVELOPER](https://img.freepik.com/free-photo/3d-abstract-cyber-background-with-flowing-particles-design_1048-18245.jpg)
+# ![FULL STACK WEB DEVELOPER](./waves.png)
 
 Hi there, I'm Koushik Varma 👋
 
