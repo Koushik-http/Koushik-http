@@ -47,22 +47,12 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
 
 Here are some of the projects I've worked on:
 
-- [**Project 1**](https://github.com/koushik1101/project1) - A brief description of what the project does and what technologies you used.
-- [**Project 2**](https://github.com/koushik1101/project2) - Description of the second project and any key features.
-- [**Project 3**](https://github.com/koushik1101/project3) - Overview of another project, highlighting skills or technologies learned.
+- [**Hotel Ease**](https://hotel-ease-koushik.vercel.app/) - A hotel room booking webpage.
+- [**Real Estate Website**](https://pride-real-estate.vercel.app/) - A website for searching real estate properties.
+- [**My Portfolio**](https://koushik1101portfolio.vercel.app/) - Showcasing my skills and for contacting me.
+- [**QuickBytes**](https://food-website-beta-indol.vercel.app/) - A food ordering website.
 
 Check out my full portfolio on GitHub for more projects!
-
-## 📈 GitHub Stats
-
-![Koushik Varma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koushik1101&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik1101&layout=compact&theme=radical)
-
-## 📝 Blog & Articles
-
-- [**How I Learned React**](https://medium.com/@koushik1101/how-i-learned-react)
-- [**Building a REST API with Node.js and Express**](https://medium.com/@koushik1101/building-a-rest-api-with-nodejs-and-express)
 
 ## 📫 Reach Out to Me
 
