@@ -1,4 +1,6 @@
-# Hi there, I'm Koushik Varma 👋
+# ![Wave Header](https://your-image-url.com/wave-header.png)
+
+Hi there, I'm Koushik Varma 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, open-source contributions, and building projects that solve real-world problems. Here, you can find my repositories, skills, and more about me. Feel free to explore, star, or contribute to any of my projects!
 
