@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
 
 ## 🚀 My Skills & Technologies
 
-### Frontend:
 <div>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="margin-right: 10px;">
@@ -24,7 +23,9 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
   <img src="https://img.shields.io/badge/Bootstrap-%237E32A8.svg?&style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2318A0FB.svg?&style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/TailScript-%23EAEAEA.svg?&style=flat-square&logo=tailwindcss&logoColor=black" alt="TailScript" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Vite.js-%23F24E1E.svg?&style=flat-square&logo=vite&logoColor=white" alt="Vite.js" style="margin-right: 10px;">
 </div>
+
 
 ### Backend:
 <div>
